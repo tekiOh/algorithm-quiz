@@ -5,7 +5,7 @@
 ## 분류
 1. 동적 계획법
 - [2193]    : [1,2,3 더하기](https://www.acmicpc.net/problem/2193)
-- [9095]    : [이친수](https://www.acmicpc.net/problem/9095)
+- [9095]    : [이친수](https://www.acmicpc.net/problem/9095) 
 - [11762]   : [2xn 타일링](https://www.acmicpc.net/problem/11762)
 - [1010]    : [다리 놓기](https://www.acmicpc.net/problem/1010)
 2. 삼성 SW 역량 TEST
