@@ -16,6 +16,7 @@
 3. 소수구하기
 - [1978]    : 소수구하기[(문제)](https://www.acmicpc.net/problem/1978)
 - [2581]    : 소수구하기[(문제)](https://www.acmicpc.net/problem/2581)
+- [1929]    : 소수구하기[(문제)](https://www.acmicpc.net/problem/1929)
 [백준 온라인 저지]: https://www.acmicpc.net
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp 
 [9095]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9095.cpp
@@ -26,3 +27,4 @@
 [14891]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/14891.cpp
 [1978]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1978.cpp 
 [2581]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2581.cpp
+[1929]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1929.cpp
