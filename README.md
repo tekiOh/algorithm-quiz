@@ -13,6 +13,9 @@
 - [14502]   : 연구소[(문제)](https://www.acmicpc.net/problem/14502)
 - [14891]   : 톱니바퀴[(문제)](https://www.acmicpc.net/problem/14891)
 
+3. 소수구하기
+- [1978]    : 소수구하기[(문제)](https://www.acmicpc.net/problem/1978)
+
 [백준 온라인 저지]: https://www.acmicpc.net
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp 
 [9095]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9095.cpp
@@ -21,3 +24,4 @@
 [14888]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/14888.cpp
 [14502]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/14502.cpp
 [14891]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/14891.cpp
+[1978]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1978.cpp 
