@@ -30,6 +30,9 @@
 5. 스택
 - [2504]    : 단어정렬[(문제)](https://www.acmicpc.net/problem/2504)
 
+6. 큐
+- [18450]    : 단어정렬[(문제)](https://www.acmicpc.net/problem/18450)
+
 [백준 온라인 저지]: https://www.acmicpc.net
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp 
 [9095]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9095.cpp
@@ -49,3 +52,4 @@
 [1427]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1427.cpp
 [1181]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1181.cpp 
 [2504]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2504.cpp 
+[18450]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/18450.cpp
