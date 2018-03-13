@@ -20,8 +20,9 @@
 - [9020]    : 소수구하기[(문제)](https://www.acmicpc.net/problem/9020)
 
 4. 정렬
-- [2750]    : 수정렬하기[(문제)](https://www.acmicpc.net/problem/2750)[(참고)](https://www.acmicpc.net/blog/view/22)
-
+- [2750]    : 수정렬하기1[(문제)](https://www.acmicpc.net/problem/2750)[(참고)](https://www.acmicpc.net/blog/view/22)
+- [2751]    : 수정렬하기2[(문제)](https://www.acmicpc.net/problem/2751)
+- [10989]    : 수정렬하기3[(문제)](https://www.acmicpc.net/problem/10989)[(counting sort)](http://bowbowbow.tistory.com/8)
 [백준 온라인 저지]: https://www.acmicpc.net
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp 
 [9095]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9095.cpp
