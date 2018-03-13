@@ -33,6 +33,7 @@
 
 6. 큐
 - [18450]    : 단어정렬[(문제)](https://www.acmicpc.net/problem/18450)
+- [1966]    : 프린터 큐[(문제)](https://www.acmicpc.net/problem/1966)
 
 [백준 온라인 저지]: https://www.acmicpc.net
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp 
@@ -55,3 +56,4 @@
 [2504]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2504.cpp 
 [18450]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/18450.cpp
 [4984]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/4984.cpp
+[1966]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1966.cpp
