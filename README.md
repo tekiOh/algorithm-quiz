@@ -26,6 +26,7 @@
 - [2108]    : 통계학[(문제)](https://www.acmicpc.net/problem/2108)
 - [1427]    : 소트인사이드[(문제)](https://www.acmicpc.net/problem/1427)
 - [1181]    : 단어정렬[(문제)](https://www.acmicpc.net/problem/1181)
+- [4984]    : 베르트랑 공준[(문제)](https://www.acmicpc.net/problem/4984)
 
 5. 스택
 - [2504]    : 단어정렬[(문제)](https://www.acmicpc.net/problem/2504)
@@ -53,3 +54,4 @@
 [1181]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1181.cpp 
 [2504]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2504.cpp 
 [18450]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/18450.cpp
+[4984]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/4984.cpp
