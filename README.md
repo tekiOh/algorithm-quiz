@@ -38,6 +38,7 @@
 
 7. 데크
 - [10866]    : 덱[(문제)](https://www.acmicpc.net/problem/10866)
+- [1021]    : 회전하는 큐[(문제)](https://www.acmicpc.net/problem/1021)
 
 [백준 온라인 저지]: https://www.acmicpc.net
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp 
@@ -63,3 +64,4 @@
 [1966]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1966.cpp
 [11866]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11866.cpp
 [10866]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/10866.cpp
+[1021]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1021.cpp
