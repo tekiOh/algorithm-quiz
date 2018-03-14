@@ -36,6 +36,9 @@
 - [1966]    : 프린터 큐[(문제)](https://www.acmicpc.net/problem/1966)
 - [11866]    : 조세퍼스 문제0[(문제)](https://www.acmicpc.net/problem/11866)
 
+7. 데크
+- [10866]    : 덱[(문제)](https://www.acmicpc.net/problem/10866)
+
 [백준 온라인 저지]: https://www.acmicpc.net
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp 
 [9095]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9095.cpp
@@ -59,3 +62,4 @@
 [4984]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/4984.cpp
 [1966]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1966.cpp
 [11866]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11866.cpp
+[10866]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/10866.cpp
