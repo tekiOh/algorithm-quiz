@@ -7,9 +7,9 @@
 #include <string>
 using namespace std;
 
-deque<int> dq;
-int main(){
 
+int main(){
+    deque<int> dq;
     int N;
     cin >> N;
     string str;
