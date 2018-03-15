@@ -45,6 +45,10 @@
 - [2747]    : 피보나치 수[(문제)](https://www.acmicpc.net/problem/2747)
 - [2748]    : 피보나치 수2[(문제)](https://www.acmicpc.net/problem/2748)
 
+9. 이항계수
+- [11050]    : 이항계수1[(문제)](https://www.acmicpc.net/problem/11050)
+- [11051]    : 이항계수2[(문제)](https://www.acmicpc.net/problem/11051)
+- [10872]    : 팩토리얼[(문제)](https://www.acmicpc.net/problem/10872)
 
 [백준 온라인 저지]: https://www.acmicpc.net
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp 
@@ -71,3 +75,6 @@
 [11866]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11866.cpp
 [10866]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/10866.cpp
 [1021]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1021.cpp
+[11050]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11050.cpp
+[11051]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11051.cpp
+[10872]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/10872.cpp
