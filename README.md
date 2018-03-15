@@ -50,6 +50,7 @@
 - [11051]    : 이항계수2[(문제)](https://www.acmicpc.net/problem/11051)
 - [10872]    : 팩토리얼[(문제)](https://www.acmicpc.net/problem/10872)
 - [1676]    : 팩토리얼 0의 개수[(문제)](https://www.acmicpc.net/problem/1676)
+- [2407]    : 조합[(문제)](https://www.acmicpc.net/problem/2407)[(큰수의 계산)](http://sirini.net/grboard2/blog/view/741)
 
 [백준 온라인 저지]: https://www.acmicpc.net
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp 
@@ -80,3 +81,4 @@
 [11051]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11051.cpp
 [10872]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/10872.cpp
 [1676]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1676.cpp
+[2407]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2407.cpp
