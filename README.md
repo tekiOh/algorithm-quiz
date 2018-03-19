@@ -55,7 +55,7 @@
 
 10. 그래프(BFS,DFS)
 - [7576]    : 토마토[(문제)](https://www.acmicpc.net/problem/7576)
-
+- [2178]    : 미로탐색[(문제)](https://www.acmicpc.net/problem/2178)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -90,3 +90,4 @@
 [2407]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2407.cpp
 [6591]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/6591.cpp
 [7576]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/7576.cpp
+[2178]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2178.cpp
