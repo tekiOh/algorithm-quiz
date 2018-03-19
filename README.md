@@ -58,6 +58,7 @@
 - [2178]    : 미로탐색[(문제)](https://www.acmicpc.net/problem/2178)
 - [2606]    : 바이러스[(문제)](https://www.acmicpc.net/problem/2606)
 - [2667]    : 단지번호붙이기[(문제)](https://www.acmicpc.net/problem/2706)
+- [7569]    : 토마토2[(문제)](https://www.acmicpc.net/problem/7569)
 
 [백준 온라인 저지]: https://www.acmicpc.net
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp 
@@ -94,3 +95,4 @@
 [2178]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2178.cpp
 [2606]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2606.cpp
 [2667]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2667.cpp
+[7569]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/7569.cpp
