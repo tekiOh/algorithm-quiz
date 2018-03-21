@@ -60,6 +60,7 @@
 - [2667]    : 단지번호붙이기[(문제)](https://www.acmicpc.net/problem/2706)
 - [7569]    : 토마토2[(문제)](https://www.acmicpc.net/problem/7569)
 - [10216]    : Count Circle Groups[(문제)](https://www.acmicpc.net/problem/10216)
+- [1890]    : 점프[(문제)](https://www.acmicpc.net/problem/1890) - dp로 품
 
 [백준 온라인 저지]: https://www.acmicpc.net
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp 
@@ -98,3 +99,4 @@
 [2667]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2667.cpp
 [7569]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/7569.cpp
 [10216]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/10216.cpp
+[1890]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1890.cpp
