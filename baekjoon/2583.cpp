@@ -47,6 +47,13 @@ int main(){
             }
         }
     }
+    for(int i = 0 ; i < M ; i++){
+        for(int j = 0 ; j < N ; j++){
+            cout<<arr[i][j]<<" ";
+        }
+        cout << endl;
+    }
+
 
     for(int i = 0 ; i < M ; i++){
         for(int j = 0 ; j < N ; j++){
