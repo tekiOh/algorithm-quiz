@@ -66,6 +66,7 @@
 - [1012]    : 유기농 배추[(문제)](https://www.acmicpc.net/problem/1012)
 - [11403]   : 경로찾기[(문제)](https://www.acmicpc.net/problem/11403)
 - [2583]    : 영역 구하기[(문제)](https://www.acmicpc.net/problem/2583)
+- [7562]    : 나이트의 이동[(문제)](https://www.acmicpc.net/problem/7562)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -112,3 +113,4 @@
 [1012]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1012.cpp
 [11403]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11403.cpp
 [2583]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2583.cpp
+[7562]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/7562.cpp
