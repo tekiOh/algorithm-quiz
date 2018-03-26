@@ -63,6 +63,7 @@
 - [1890]    : 점프[(문제)](https://www.acmicpc.net/problem/1890) - dp로 품
 - [1325]    : 효율적인 해킹[(문제)](https://www.acmicpc.net/problem/1325)
 - [1697]    : 숨바꼭질[(문제)](https://www.acmicpc.net/problem/1697)
+- [1012]    : 유기농 배추[(문제)](https://www.acmicpc.net/problem/1012)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -106,3 +107,4 @@
 [1325]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1325.cpp
 [13460]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/13460.cpp
 [1697]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1697.cpp
+[1012]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1012.cpp
