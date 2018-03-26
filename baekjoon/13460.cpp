@@ -36,6 +36,7 @@ int main(){
 
     visit[rx][ry][bx][by] = 1;
     q.push({0,rx,ry,bx,by});
+    //BFS
     while(q.size()){
         strct temp = q.front();
         q.pop();
@@ -46,22 +47,24 @@ int main(){
             int nby = temp.by;
             int cr = 0;
             int cb = 0;
-
+            //R 움직임
             while(map[nrx+dx[i]][nry+dy[i]] != '#' && map[nrx][nry] != 'O'){
                 nrx += dx[i];
                 nry += dy[i];
                 cr++;
             }
-
+            //B 움직임
             while(map[nbx+dx[i]][nby+dy[i]] != '#' && map[nbx][nby] != 'O'){
                 nbx += dx[i];
                 nby += dy[i];
                 cb++;
             }
-
+            //R,B가 같은 위치에 있을 때
             if(nrx == nbx && nry == nby){
+                //실패
                 if(map[nrx][nry] == 'O')
                     continue;
+                //우선순위로 판단
                 if(cb > cr){
                     nbx -= dx[i];
                     nby -= dy[i];
@@ -71,25 +74,25 @@ int main(){
                     nry -= dy[i];
                 }
             }
-
+            //실패
             if(map[nbx][nby] == 'O') {
                 continue;
             }
-
+            //성공 답 출력
             if(map[nrx][nry] == 'O'){
                 cout <<temp.cnt+1 << endl;
                 return 0;
             }
-
             if(visit[nrx][nry][nbx][nby] == 1)
                 continue;
-
+            //큐에 추가
             if(temp.cnt < 9){
                 visit[nrx][nry][nbx][nby] == 1;
                 q.push({temp.cnt+1,nrx,nry,nbx,nby});
             }
         }
     }
+    //다 안되면 -1 출력
     cout << "-1"<<endl;
     return 0;
 }
