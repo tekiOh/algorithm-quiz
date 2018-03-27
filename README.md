@@ -70,6 +70,7 @@
 - [1987]    : 알파벳[(문제)](https://www.acmicpc.net/problem/1987)
 - [11724]    : 연결요소의 개수[(문제)](https://www.acmicpc.net/problem/11724)
 - [2468]    : 안전 영역[(문제)](https://www.acmicpc.net/problem/2468)
+- [6603]    : 로또[(문제)](https://www.acmicpc.net/problem/6603)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -120,3 +121,4 @@
 [1987]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1987.cpp
 [11724]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11724.cpp
 [2468]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2468.cpp
+[6603]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/6603.cpp
