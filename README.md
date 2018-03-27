@@ -69,6 +69,7 @@
 - [7562]    : 나이트의 이동[(문제)](https://www.acmicpc.net/problem/7562)
 - [1987]    : 알파벳[(문제)](https://www.acmicpc.net/problem/1987)
 - [11724]    : 연결요소의 개수[(문제)](https://www.acmicpc.net/problem/11724)
+- [2468]    : 안전 영역[(문제)](https://www.acmicpc.net/problem/2468)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -118,3 +119,4 @@
 [7562]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/7562.cpp
 [1987]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1987.cpp
 [11724]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11724.cpp
+[2468]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2468.cpp
