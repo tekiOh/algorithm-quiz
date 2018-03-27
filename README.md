@@ -67,6 +67,7 @@
 - [11403]   : 경로찾기[(문제)](https://www.acmicpc.net/problem/11403)
 - [2583]    : 영역 구하기[(문제)](https://www.acmicpc.net/problem/2583)
 - [7562]    : 나이트의 이동[(문제)](https://www.acmicpc.net/problem/7562)
+- [1987]    : 알파벳[(문제)](https://www.acmicpc.net/problem/1987)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -114,3 +115,4 @@
 [11403]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11403.cpp
 [2583]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2583.cpp
 [7562]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/7562.cpp
+[1987]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1987.cpp
