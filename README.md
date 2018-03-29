@@ -73,6 +73,11 @@
 - [6603]    : 로또[(문제)](https://www.acmicpc.net/problem/6603)
 - [1707]    : 이분 그래프[(문제)](https://www.acmicpc.net/problem/1707)
 
+11. 그래프 최단 거리, 경로
+- [1753]    : 최단 경로[(문제)](https://www.acmicpc.net/problem/1753)
+- [1504]    : 특정한 최단 경로[(문제)](https://www.acmicpc.net/problem/1504)
+
+
 
 [백준 온라인 저지]: https://www.acmicpc.net
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp 
