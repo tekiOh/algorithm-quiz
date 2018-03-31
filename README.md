@@ -8,6 +8,8 @@
 - [9095]    : 이친수[(문제)](https://www.acmicpc.net/problem/9095) 
 - [11762]   : 2xn 타일링[(문제)](https://www.acmicpc.net/problem/11762)
 - [1010]    : 다리 놓기[(문제)](https://www.acmicpc.net/problem/1010)
+- [2167]    : 2차원 배열의 합[(문제)](https://www.acmicpc.net/problem/2167)
+
 2. 삼성 SW 역량 TEST
 - [14888]   : 연산자 끼워넣기[(문제)](https://www.acmicpc.net/problem/14888)
 - [14502]   : 연구소[(문제)](https://www.acmicpc.net/problem/14502)
@@ -129,3 +131,4 @@
 [2468]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2468.cpp
 [6603]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/6603.cpp
 [1707]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1707.cpp
+[2167]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2167.cpp
