@@ -11,6 +11,7 @@
 - [2167]    : 2차원 배열의 합[(문제)](https://www.acmicpc.net/problem/2167)
 - [11052]    : 붕어빵 판매하기[(문제)](https://www.acmicpc.net/problem/11052)
 - [11727]    : 2xn 타일링2[(문제)](https://www.acmicpc.net/problem/11727)
+- [11053]    : 가장 긴 증가하는 부분 순열[(문제)](https://www.acmicpc.net/problem/11053)
 
 2. 삼성 SW 역량 TEST
 - [14888]   : 연산자 끼워넣기[(문제)](https://www.acmicpc.net/problem/14888)
@@ -136,3 +137,4 @@
 [2167]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2167.cpp
 [11052]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11052.cpp
 [11727]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11727.cpp
+[11053]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11053.cpp
