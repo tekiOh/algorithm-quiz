@@ -13,6 +13,7 @@
 - [11727]   : 2xn 타일링2[(문제)](https://www.acmicpc.net/problem/11727)
 - [11053]   : 가장 긴 증가하는 부분 순열[(문제)](https://www.acmicpc.net/problem/11053)
 - [2163]    : 초콜렛 자르기[(문제)](https://www.acmicpc.net/problem/2163)
+- [9465]    : 오르막 수[(문제)](https://www.acmicpc.net/problem/9465)
 
 2. 삼성 SW 역량 TEST
 - [14888]   : 연산자 끼워넣기[(문제)](https://www.acmicpc.net/problem/14888)
@@ -140,3 +141,4 @@
 [11727]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11727.cpp
 [11053]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11053.cpp
 [2163]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2163.cpp
+[9465]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9465.cpp
