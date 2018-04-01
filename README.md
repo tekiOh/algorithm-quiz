@@ -9,9 +9,10 @@
 - [11762]   : 2xn 타일링[(문제)](https://www.acmicpc.net/problem/11762)
 - [1010]    : 다리 놓기[(문제)](https://www.acmicpc.net/problem/1010)
 - [2167]    : 2차원 배열의 합[(문제)](https://www.acmicpc.net/problem/2167)
-- [11052]    : 붕어빵 판매하기[(문제)](https://www.acmicpc.net/problem/11052)
-- [11727]    : 2xn 타일링2[(문제)](https://www.acmicpc.net/problem/11727)
-- [11053]    : 가장 긴 증가하는 부분 순열[(문제)](https://www.acmicpc.net/problem/11053)
+- [11052]   : 붕어빵 판매하기[(문제)](https://www.acmicpc.net/problem/11052)
+- [11727]   : 2xn 타일링2[(문제)](https://www.acmicpc.net/problem/11727)
+- [11053]   : 가장 긴 증가하는 부분 순열[(문제)](https://www.acmicpc.net/problem/11053)
+- [2163]    : 초콜렛 자르기[(문제)](https://www.acmicpc.net/problem/2163)
 
 2. 삼성 SW 역량 TEST
 - [14888]   : 연산자 끼워넣기[(문제)](https://www.acmicpc.net/problem/14888)
@@ -27,7 +28,7 @@
 4. 정렬
 - [2750]    : 수정렬하기1[(문제)](https://www.acmicpc.net/problem/2750)[(참고)](https://www.acmicpc.net/blog/view/22)
 - [2751]    : 수정렬하기2[(문제)](https://www.acmicpc.net/problem/2751)
-- [10989]    : 수정렬하기3[(문제)](https://www.acmicpc.net/problem/10989)[(counting sort)](http://bowbowbow.tistory.com/8)
+- [10989]   : 수정렬하기3[(문제)](https://www.acmicpc.net/problem/10989)[(counting sort)](http://bowbowbow.tistory.com/8)
 - [2108]    : 통계학[(문제)](https://www.acmicpc.net/problem/2108)
 - [1427]    : 소트인사이드[(문제)](https://www.acmicpc.net/problem/1427)
 - [1181]    : 단어정렬[(문제)](https://www.acmicpc.net/problem/1181)
@@ -37,12 +38,12 @@
 - [2504]    : 단어정렬[(문제)](https://www.acmicpc.net/problem/2504)
 
 6. 큐
-- [18450]    : 단어정렬[(문제)](https://www.acmicpc.net/problem/18450)
+- [18450]   : 단어정렬[(문제)](https://www.acmicpc.net/problem/18450)
 - [1966]    : 프린터 큐[(문제)](https://www.acmicpc.net/problem/1966)
-- [11866]    : 조세퍼스 문제0[(문제)](https://www.acmicpc.net/problem/11866)
+- [11866]   : 조세퍼스 문제0[(문제)](https://www.acmicpc.net/problem/11866)
 
 7. 데크
-- [10866]    : 덱[(문제)](https://www.acmicpc.net/problem/10866)
+- [10866]   : 덱[(문제)](https://www.acmicpc.net/problem/10866)
 - [1021]    : 회전하는 큐[(문제)](https://www.acmicpc.net/problem/1021)
 - [5430]    : AC[(문제)](https://www.acmicpc.net/problem/5430)
 
@@ -51,9 +52,9 @@
 - [2748]    : 피보나치 수2[(문제)](https://www.acmicpc.net/problem/2748)
 
 9. 이항계수
-- [11050]    : 이항계수1[(문제)](https://www.acmicpc.net/problem/11050)
-- [11051]    : 이항계수2[(문제)](https://www.acmicpc.net/problem/11051)
-- [10872]    : 팩토리얼[(문제)](https://www.acmicpc.net/problem/10872)
+- [11050]   : 이항계수1[(문제)](https://www.acmicpc.net/problem/11050)
+- [11051]   : 이항계수2[(문제)](https://www.acmicpc.net/problem/11051)
+- [10872]   : 팩토리얼[(문제)](https://www.acmicpc.net/problem/10872)
 - [1676]    : 팩토리얼 0의 개수[(문제)](https://www.acmicpc.net/problem/1676)
 - [2407]    : 조합[(문제)](https://www.acmicpc.net/problem/2407)[(큰수의 계산)](http://sirini.net/grboard2/blog/view/741)
 - [6591]    : 이항 쇼 다운[(문제)](https://www.acmicpc.net/problem/6591)
@@ -64,7 +65,7 @@
 - [2606]    : 바이러스[(문제)](https://www.acmicpc.net/problem/2606)
 - [2667]    : 단지번호붙이기[(문제)](https://www.acmicpc.net/problem/2706)
 - [7569]    : 토마토2[(문제)](https://www.acmicpc.net/problem/7569)
-- [10216]    : Count Circle Groups[(문제)](https://www.acmicpc.net/problem/10216)
+- [10216]   : Count Circle Groups[(문제)](https://www.acmicpc.net/problem/10216)
 - [1890]    : 점프[(문제)](https://www.acmicpc.net/problem/1890) - dp로 품
 - [1325]    : 효율적인 해킹[(문제)](https://www.acmicpc.net/problem/1325)
 - [1697]    : 숨바꼭질[(문제)](https://www.acmicpc.net/problem/1697)
@@ -73,7 +74,7 @@
 - [2583]    : 영역 구하기[(문제)](https://www.acmicpc.net/problem/2583)
 - [7562]    : 나이트의 이동[(문제)](https://www.acmicpc.net/problem/7562)
 - [1987]    : 알파벳[(문제)](https://www.acmicpc.net/problem/1987)
-- [11724]    : 연결요소의 개수[(문제)](https://www.acmicpc.net/problem/11724)
+- [11724]   : 연결요소의 개수[(문제)](https://www.acmicpc.net/problem/11724)
 - [2468]    : 안전 영역[(문제)](https://www.acmicpc.net/problem/2468)
 - [6603]    : 로또[(문제)](https://www.acmicpc.net/problem/6603)
 - [1707]    : 이분 그래프[(문제)](https://www.acmicpc.net/problem/1707)
@@ -138,3 +139,4 @@
 [11052]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11052.cpp
 [11727]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11727.cpp
 [11053]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11053.cpp
+[2163]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2163.cpp
