@@ -15,6 +15,7 @@
 - [2163]    : 초콜렛 자르기[(문제)](https://www.acmicpc.net/problem/2163)
 - [9465]    : 스티커[(문제)](https://www.acmicpc.net/problem/9465)
 - [11057]    : 오르막 수[(문제)](https://www.acmicpc.net/problem/11057)
+- [2294]    : 동전2[(문제)](https://www.acmicpc.net/problem/2294)
 
 2. 삼성 SW 역량 TEST
 - [14888]   : 연산자 끼워넣기[(문제)](https://www.acmicpc.net/problem/14888)
@@ -144,3 +145,4 @@
 [2163]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2163.cpp
 [9465]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9465.cpp
 [11057]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11057.cpp
+[2294]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2294.cpp
