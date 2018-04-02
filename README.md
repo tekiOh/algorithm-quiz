@@ -22,7 +22,8 @@
 - [14888]   : 연산자 끼워넣기[(문제)](https://www.acmicpc.net/problem/14888)
 - [14502]   : 연구소[(문제)](https://www.acmicpc.net/problem/14502)
 - [14891]   : 톱니바퀴[(문제)](https://www.acmicpc.net/problem/14891)
-- [13460]   : 째로탈출2[(문제)](https://www.acmicpc.net/problem/13460)
+- [12100]   : 2048(easy)[(문제)](https://www.acmicpc.net/problem/12100)
+ 
 3. 소수구하기
 - [1978]    : 소수구하기[(문제)](https://www.acmicpc.net/problem/1978)
 - [2581]    : 소수구하기[(문제)](https://www.acmicpc.net/problem/2581)
@@ -148,3 +149,4 @@
 [11057]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11057.cpp
 [2294]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2294.cpp
 [11048]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11048.cpp
+[12100]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/12100.cpp
