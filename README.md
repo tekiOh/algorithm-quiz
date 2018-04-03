@@ -26,6 +26,7 @@
 - [3190]   : 뱀[(문제)](https://www.acmicpc.net/problem/3190)
 - [13458]   : 시험 감독[(문제)](https://www.acmicpc.net/problem/13458)
 - [14499]   : 주사위 굴리기[(문제)](https://www.acmicpc.net/problem/14499)
+- [14500]   : 테트로미노[(문제)](https://www.acmicpc.net/problem/14500)
 
  
 3. 소수구하기
@@ -157,3 +158,4 @@
 [3190]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/3190.cpp
 [13458]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/13458.cpp
 [14499]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/14499.cpp
+[14500]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/14500.cpp
