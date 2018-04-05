@@ -30,6 +30,7 @@
 - [14501]   : 퇴사[(문제)](https://www.acmicpc.net/problem/14501)
 - [14503]   : 로봇 청소기[(문제)](https://www.acmicpc.net/problem/14503)
 - [14889]   : 스타트와 링크[(문제)](https://www.acmicpc.net/problem/14889)
+- [14890]   : 경사로[(문제)](https://www.acmicpc.net/problem/14890)
 
  
 3. 소수구하기
@@ -165,3 +166,4 @@
 [14501]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/14501.cpp
 [14503]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/14503.cpp
 [14889]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/14889.cpp
+[14890]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/14890.cpp
