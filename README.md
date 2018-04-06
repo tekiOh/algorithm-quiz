@@ -95,6 +95,7 @@
 - [1389]    : 케빈 베이컨의 6단계 법칙[(문제)](https://www.acmicpc.net/problem/1389)
 - [2644]    : 촌수 계산하기[(문제)](https://www.acmicpc.net/problem/2644)
 - [2589]    : 보물섬[(문제)](https://www.acmicpc.net/problem/2589)
+- [5014]    : 스타트링크[(문제)](https://www.acmicpc.net/problem/5014)
 
 11. 그래프 최단 거리, 경로
 - [1753]    : 최단 경로[(문제)](https://www.acmicpc.net/problem/1753)
@@ -173,3 +174,4 @@
 [1389]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1389.cpp
 [2644]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2644.cpp
 [2589]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2589.cpp
+[5014]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/5014.cpp
