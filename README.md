@@ -97,6 +97,7 @@
 - [2589]    : 보물섬[(문제)](https://www.acmicpc.net/problem/2589)
 - [5014]    : 스타트링크[(문제)](https://www.acmicpc.net/problem/5014)
 - [1963]    : 소수경로[(문제)](https://www.acmicpc.net/problem/1963)
+- [10026]    : 적록색약[(문제)](https://www.acmicpc.net/problem/10026)
 
 11. 그래프 최단 거리, 경로
 - [1753]    : 최단 경로[(문제)](https://www.acmicpc.net/problem/1753)
@@ -176,3 +177,4 @@
 [2644]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2644.cpp
 [2589]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2589.cpp
 [5014]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/5014.cpp
+[10026]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/10026.cpp
