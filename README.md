@@ -93,6 +93,7 @@
 - [6603]    : 로또[(문제)](https://www.acmicpc.net/problem/6603)
 - [1707]    : 이분 그래프[(문제)](https://www.acmicpc.net/problem/1707)
 - [1389]    : 케빈 베이컨의 6단계 법칙[(문제)](https://www.acmicpc.net/problem/1389)
+- [2644]    : 촌수 계산하기[(문제)](https://www.acmicpc.net/problem/2644)
 
 11. 그래프 최단 거리, 경로
 - [1753]    : 최단 경로[(문제)](https://www.acmicpc.net/problem/1753)
@@ -169,3 +170,4 @@
 [14889]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/14889.cpp
 [14890]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/14890.cpp
 [1389]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1389.cpp
+[2644]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2644.cpp
