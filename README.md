@@ -96,6 +96,7 @@
 - [2644]    : 촌수 계산하기[(문제)](https://www.acmicpc.net/problem/2644)
 - [2589]    : 보물섬[(문제)](https://www.acmicpc.net/problem/2589)
 - [5014]    : 스타트링크[(문제)](https://www.acmicpc.net/problem/5014)
+- [1963]    : 소수경로[(문제)](https://www.acmicpc.net/problem/1963)
 
 11. 그래프 최단 거리, 경로
 - [1753]    : 최단 경로[(문제)](https://www.acmicpc.net/problem/1753)
