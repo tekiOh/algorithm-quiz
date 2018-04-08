@@ -100,6 +100,7 @@
 - [10026]    : 적록색약[(문제)](https://www.acmicpc.net/problem/10026)
 - [3055]    : 탈출[(문제)](https://www.acmicpc.net/problem/3055)
 - [2573]    : 빙산[(문제)](https://www.acmicpc.net/problem/2573)
+- [2206]    : 벽 부수고 이동하기[(문제)](https://www.acmicpc.net/problem/2206)
 
 11. 그래프 최단 거리, 경로
 - [1753]    : 최단 경로[(문제)](https://www.acmicpc.net/problem/1753)
@@ -182,3 +183,4 @@
 [10026]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/10026.cpp
 [3055]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/3055.cpp
 [2573]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2573.cpp
+[2206]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2206.cpp
