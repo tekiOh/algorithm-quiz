@@ -186,3 +186,5 @@
 [2573]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2573.cpp
 [2206]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2206.cpp
 [9019]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9019.cpp
+[1753]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1753.cpp
+[1504]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1504.cpp
