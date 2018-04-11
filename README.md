@@ -105,6 +105,7 @@
 - [9466]    : 텀프로젝트[(문제)](https://www.acmicpc.net/problem/9466)
 - [2146]    : 다리만들기[(문제)](https://www.acmicpc.net/problem/2146)
 - [5214]    : 환승[(문제)](https://www.acmicpc.net/problem/5214)
+- [9328]    : 열쇠[(문제)](https://www.acmicpc.net/problem/9328)
 
 11. 그래프 최단 거리, 경로
 - [1753]    : 최단 경로[(문제)](https://www.acmicpc.net/problem/1753)
@@ -194,3 +195,4 @@
 [9466]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9466.cpp
 [2146]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2146.cpp
 [5214]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/5214.cpp
+[9328]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9328.cpp
