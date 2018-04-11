@@ -111,6 +111,11 @@
 - [1753]    : 최단 경로[(문제)](https://www.acmicpc.net/problem/1753)
 - [1504]    : 특정한 최단 경로[(문제)](https://www.acmicpc.net/problem/1504)
 
+[SW EXPERT ACAMEDY]
+----------------
+## 분류
+1. 모의고사
+- [s_4013]    : 특이한 자석[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH) 
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -196,3 +201,6 @@
 [2146]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2146.cpp
 [5214]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/5214.cpp
 [9328]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9328.cpp
+
+
+[s_4013]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/4013.cpp
