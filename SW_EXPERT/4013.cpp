@@ -22,6 +22,7 @@ void rightshift(int num) {
     arr[num][1] = temp;
 }
 void rotate() {
+    //정해진 방향에 따라 shift
     for (int i = 1; i < 5; i++) {
         if (directionArr[i] == 1)
             rightshift(i);
@@ -33,6 +34,7 @@ void rotate() {
 void setDirection(int num, int direction) {
     int left = num - 1;
     int right = num + 1;
+    //왼쪽, 오른쪽 방향 결정
     if (left >= 1 && visit[left] == 0) {
         //같은 극이면 안돌고
         if (arr[num][7] == arr[left][3]) {
@@ -66,6 +68,7 @@ void setDirection(int num, int direction) {
 }
 
 void score() {
+    //점수 계산
     int d = 1;
     for (int i = 1; i < 5; i++) {
         sol += (d*arr[i][1]);
