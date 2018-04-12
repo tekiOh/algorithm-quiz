@@ -11,7 +11,7 @@ int minValue = 100000001;
 int maxValue = -100000001;
 
 
-void dfs(int plus, int minus, int mul, int div, int cnt, int value) {
+void dfs(int cnt , int value) {
 	if (cnt == N) {
 		if (minValue > value)
 			minValue = value;
@@ -19,17 +19,25 @@ void dfs(int plus, int minus, int mul, int div, int cnt, int value) {
 			maxValue = value;
 		return;
 	}
-	if (plus != 0) {
-		dfs(plus - 1, minus, mul, div, cnt + 1, value + num[cnt + 1]);
+	if (op[1]) {
+		op[1]--;
+		dfs(cnt+1,value+num[cnt+1]);
+		op[1]++;
 	}
-	if (minus != 0) {
-		dfs(plus, minus - 1, mul, div, cnt + 1, value - num[cnt + 1]);
+	if (op[2]) {
+		op[2]--;
+		dfs(cnt+1,value-num[cnt+1]);
+		op[2]++;
 	}
-	if (mul != 0) {
-		dfs(plus, minus, mul - 1, div, cnt + 1, value * num[cnt + 1]);
+	if (op[3]) {
+		op[3]--;
+		dfs(cnt+1,value*num[cnt+1]);
+		op[3]++;
 	}
-	if (div != 0) {
-		dfs(plus, minus, mul, div - 1, cnt + 1, value / num[cnt + 1]);
+	if (op[4]) {
+		op[4]--;
+		dfs(cnt+1,value/num[cnt+1]);
+		op[4]++;
 	}
 }
 
@@ -48,7 +56,7 @@ int main() {
 			cin >> num[i];
 		}
 
-		dfs(op[1],op[2],op[3],op[4],1,num[1]);
+		dfs(1,num[1]);
 		cout <<"#" << c << " " << maxValue - minValue << endl;
 		minValue = 100000001;
 		maxValue = -100000001;
