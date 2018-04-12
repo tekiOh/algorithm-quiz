@@ -117,7 +117,8 @@
 1. 모의고사
 - [s_4013]    : 특이한 자석[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH) 
 - [s_4012]    : 요리사[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH)
-- [s_4008]    : 숫자 만들기[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH) 
+- [s_4008]    : 숫자 만들기[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)
+- [s_2382]    : 미생물 격리[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl) 
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -208,3 +209,4 @@
 [s_4013]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/4013.cpp
 [s_4012]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/4012.cpp
 [s_4008]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/4008.cpp
+[s_2382]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/2382.cpp
