@@ -120,7 +120,7 @@
 - [s_4008]    : 숫자 만들기[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)
 - [s_2382]    : 미생물 격리[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl) 
 - [s_2112]    : 보호 필름[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu) 
-- [s_2447]    : 차량 정비소[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy) 
+- [s_2477]    : 차량 정비소[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy) 
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
