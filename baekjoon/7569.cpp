@@ -41,7 +41,6 @@ void BFS(int cnt){
                 }
             }
         }
-
     }
 
     if(q.empty()){
