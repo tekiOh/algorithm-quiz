@@ -125,6 +125,7 @@
 - [s_2117]    : 홈 방범 서비스[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu) 
 - [s_2115]    : 벌꿀 채취[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu) 
 - [s_2105]    : 디저트 카페[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu) 
+- [s_1953]    : 탈주범 검거[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq) 
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -222,3 +223,4 @@
 [s_2117]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/2117.cpp
 [s_2115]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/2115.cpp
 [s_2105]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/2105.cpp
+[s_1953]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/1953.cpp
