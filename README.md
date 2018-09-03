@@ -224,4 +224,3 @@
 [s_2115]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/2115.cpp
 [s_2105]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/2105.cpp
 [s_1953]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/1953.cpp
-[s_1234] :https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/1234.cpp
