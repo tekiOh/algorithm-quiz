@@ -128,6 +128,14 @@
 - [s_1953]    : 탈주범 검거[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq) 
 
 
+[PROGRAMMERS]
+--------------
+## 분류
+1. 2018 1차 카카오 신입 공채 코딩테스트
+- [비밀지도]    : [(문제)](https://programmers.co.kr/learn/courses/30/lessons/17681)
+- [다트게임]    : [(문제)](https://programmers.co.kr/learn/courses/30/lessons/17682)
+- [캐시]    : [(문제)](https://programmers.co.kr/learn/courses/30/lessons/17680)
+
 [백준 온라인 저지]: https://www.acmicpc.net
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp 
 [9095]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9095.cpp
@@ -212,7 +220,7 @@
 [5214]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/5214.cpp
 [9328]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9328.cpp
 
-
+[SW EXPERT ACAMEDY]: https://swexpertacademy.com/main/main.do
 [s_4013]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/4013.cpp
 [s_4012]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/4012.cpp
 [s_4008]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/4008.cpp
@@ -224,3 +232,8 @@
 [s_2115]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/2115.cpp
 [s_2105]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/2105.cpp
 [s_1953]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/1953.cpp
+
+[PROGRAMMERS]: https://programmers.co.kr/learn/challenges
+[비밀지도]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/secretmap.cpp
+[다트게임]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/dart_game.cpp
+[캐시]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/cache.cpp
