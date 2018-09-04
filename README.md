@@ -135,6 +135,7 @@
 - [비밀지도]    : [(문제)](https://programmers.co.kr/learn/courses/30/lessons/17681)
 - [다트게임]    : [(문제)](https://programmers.co.kr/learn/courses/30/lessons/17682)
 - [캐시]    : [(문제)](https://programmers.co.kr/learn/courses/30/lessons/17680)
+- [셔틀버스]    : [(문제)](https://programmers.co.kr/learn/courses/30/lessons/17678)
 
 [백준 온라인 저지]: https://www.acmicpc.net
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp 
@@ -237,3 +238,4 @@
 [비밀지도]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/secretmap.cpp
 [다트게임]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/dart_game.cpp
 [캐시]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/cache.cpp
+[캐시]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/shuttle_bus.cpp
