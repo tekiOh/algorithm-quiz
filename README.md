@@ -242,7 +242,7 @@
 [비밀지도]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/secretmap.cpp
 [다트게임]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/dart_game.cpp
 [캐시]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/cache.cpp
-[캐시]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/shuttle_bus.cpp
+[셔틀버스]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/shuttle_bus.cpp
 [뉴스 클러스터링]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/news_clustering.cpp
 [프렌즈4블록]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/friends_4_Block.cpp
 [추석트래픽]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/traffic.cpp
