@@ -224,6 +224,9 @@
 [2146]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2146.cpp
 [5214]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/5214.cpp
 [9328]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9328.cpp
+[5430]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/5430.cpp
+[2747]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2747.cpp
+[2748]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2748.cpp
 
 [SW EXPERT ACAMEDY]: https://swexpertacademy.com/main/main.do
 [s_4013]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/4013.cpp
