@@ -141,6 +141,7 @@
 - [추석트래픽]    :[(문제)](https://programmers.co.kr/learn/courses/30/lessons/17676)
 - [방금그곡]    :[(문제)](https://programmers.co.kr/learn/courses/30/lessons/17683)
 - [n진수게임]    :[(문제)](https://programmers.co.kr/learn/courses/30/lessons/17687)
+- [압축]    :[(문제)](https://programmers.co.kr/learn/courses/30/lessons/17684)
 
 [백준 온라인 저지]: https://www.acmicpc.net
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp 
@@ -252,3 +253,4 @@
 [추석트래픽]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/traffic.cpp
 [방금그곡]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/song.cpp
 [n진수게임]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/notation.cpp
+[압축]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/compression.cpp
