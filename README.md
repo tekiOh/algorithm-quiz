@@ -140,6 +140,7 @@
 - [프렌즈4블록]    :[(문제)](https://programmers.co.kr/learn/courses/30/lessons/17679)
 - [추석트래픽]    :[(문제)](https://programmers.co.kr/learn/courses/30/lessons/17676)
 - [방금그곡]    :[(문제)](https://programmers.co.kr/learn/courses/30/lessons/17683)
+- [n진수게임]    :[(문제)](https://programmers.co.kr/learn/courses/30/lessons/17687)
 
 [백준 온라인 저지]: https://www.acmicpc.net
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp 
@@ -250,3 +251,4 @@
 [프렌즈4블록]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/friends_4_Block.cpp
 [추석트래픽]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/traffic.cpp
 [방금그곡]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/song.cpp
+[n진수게임]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/notation.cpp
