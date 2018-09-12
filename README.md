@@ -106,7 +106,7 @@
 - [2146]    : 다리만들기[(문제)](https://www.acmicpc.net/problem/2146)
 - [5214]    : 환승[(문제)](https://www.acmicpc.net/problem/5214)
 - [9328]    : 열쇠[(문제)](https://www.acmicpc.net/problem/9328)
-- [1938]    : 통나무 옮기기[(문제)](https://www.acmicpc.net/problem/1983)
+- [1983]    : 통나무 옮기기[(문제)](https://www.acmicpc.net/problem/1983)
 
 11. 그래프 최단 거리, 경로
 - [1753]    : 최단 경로[(문제)](https://www.acmicpc.net/problem/1753)
