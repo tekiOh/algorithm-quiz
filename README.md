@@ -107,6 +107,8 @@
 - [5214]    : 환승[(문제)](https://www.acmicpc.net/problem/5214)
 - [9328]    : 열쇠[(문제)](https://www.acmicpc.net/problem/9328)
 - [1983]    : 통나무 옮기기[(문제)](https://www.acmicpc.net/problem/1983)
+- [2251]    : 물통[(문제)](https://www.acmicpc.net/problem/2251)
+
 
 11. 그래프 최단 거리, 경로
 - [1753]    : 최단 경로[(문제)](https://www.acmicpc.net/problem/1753)
@@ -232,6 +234,8 @@
 [2747]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2747.cpp
 [2748]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2748.cpp
 [1983]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1983.cpp
+[2251]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2251.cpp
+
 
 [SW EXPERT ACAMEDY]: https://swexpertacademy.com/main/main.do
 [s_4013]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/4013.cpp
