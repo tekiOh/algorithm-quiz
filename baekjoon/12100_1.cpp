@@ -29,7 +29,7 @@ void combination() {
 }
 
 //y++
-void up(int (&arr)[20][20]) {
+void up(int arr[20][20]) {
     for (int j = 0; j < N; j++) {
         vector<int> v;
         bool chk = true;
@@ -62,7 +62,7 @@ void up(int (&arr)[20][20]) {
 }
 
 //y--
-void down(int (&arr)[20][20]) {
+void down(int arr[20][20]) {
     for (int j = 0; j < N; j++) {
         vector<int> v;
         bool chk = true;
@@ -95,7 +95,7 @@ void down(int (&arr)[20][20]) {
 }
 
 //x++
-void right(int (&arr)[20][20]) {
+void right(int arr[20][20]) {
     for (int i = 0; i < N; i++) {
         vector<int> v;
         bool chk = true;
@@ -128,7 +128,7 @@ void right(int (&arr)[20][20]) {
 }
 
 //x--
-void left(int (&arr)[20][20]) {
+void left(int arr[20][20]) {
     for (int i = 0; i < N; i++) {
         vector<int> v;
         bool chk = true;
@@ -160,7 +160,7 @@ void left(int (&arr)[20][20]) {
     }
 }
 
-void calc(int (& arr)[20][20]){
+void calc(int arr[20][20]){
     for(int i = 0 ; i < N ; i++){
         for(int j = 0 ; j < N ; j++){
             if(sol < arr[i][j])
