@@ -112,6 +112,7 @@
 - [15683]   : 감시[(문제)](https://www.acmicpc.net/problem/15683)
 - [15684]   : 사다리 조작[(문제)](https://www.acmicpc.net/problem/15684)
 - [15685]   : 드래곤커브[(문제)](https://www.acmicpc.net/problem/15685)
+- [15686]   : 치킨 배달[(문제)](https://www.acmicpc.net/problem/15686)
 
 
 11. 그래프 최단 거리, 경로
@@ -245,6 +246,7 @@
 [15683]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/15683.cpp
 [15684]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/15684.cpp
 [15685]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/15685.cpp
+[15686]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/15686.cpp
 
 
 [SW EXPERT ACAMEDY]: https://swexpertacademy.com/main/main.do
