@@ -21,15 +21,14 @@ int N;
 int sol;
 
 bool chkPoint(int x, int y) {
-    if (x >= 0 && x < N && y >= 0 && y < N)
-        return true;
-    return false;
+    if (x < 0 || x >= N || y < 0 || y >= N)
+        return false;
+    return true;
 }
 
 void move(int y, int x, int d) {
     int tx = x;
     int ty = y;
-    int td = d;
     int nx, ny;
     int cnt = 0;
 //    cout << "**************************************" << endl;
@@ -60,7 +59,6 @@ void move(int y, int x, int d) {
             break;
 
         if (map[ny][nx] == 0) {
-            continue;
         }
         //블록일때
         else if (map[ny][nx] > 0 && map[ny][nx] < 6) {
@@ -115,12 +113,11 @@ int main() {
                 cin >> map[i][j];
                 if (map[i][j] > 5 && map[i][j] < 11) {
                     warmhole[map[i][j] - 6].emplace_back(make_pair(i, j));
-                    continue;
                 }
             }
         }
         simulation();
-        cout << "#" << a << " " << sol << endl;
+        cout << "#" << a << " " << sol << '\n';
         sol = 0;
         a++;
         for (int i = 0; i < 5; i++) {
