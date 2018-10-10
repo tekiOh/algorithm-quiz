@@ -9,10 +9,11 @@ using namespace std;
 
 int map[100][100];  //지도
 //상하좌우
+//[현재방향][블록넘버] = 다음방향
 int direction[4][6] = {{-1, 3, 1, 1, 2, 1},
                        {-1, 0, 3, 2, 0, 0},
                        {-1, 1, 0, 3, 3, 3},
-                       {-1, 2, 2, 0, 1, 2}}; //[현재방향][블록넘버] = 다음방향
+                       {-1, 2, 2, 0, 1, 2}};
 int dx[4] = {0, 0, -1, 1};
 int dy[4] = {1, -1, 0, 0};
 vector<pair<int, int>> warmhole[5];
@@ -58,9 +59,10 @@ void move(int y, int x, int d) {
         if (x == tx && y == ty)
             break;
 
-        if (map[ny][nx] == 0) { ;
+        if (map[ny][nx] == 0) {
+            continue;
         }
-            //블록일때
+        //블록일때
         else if (map[ny][nx] > 0 && map[ny][nx] < 6) {
             //새로운방향
             d = direction[d][map[ny][nx]];
@@ -68,7 +70,7 @@ void move(int y, int x, int d) {
 //                cout << "block crash" << endl;
 //                cout << nx << "," << ny << "," << d << endl;
         }
-            //웜홀일 때
+        //웜홀일 때
         else if (map[ny][nx] > 5 && map[ny][nx] < 11) {
             if (nx == warmhole[map[ny][nx] - 6][0].second && ny == warmhole[map[ny][nx] - 6][0].first) {
                 x = warmhole[map[ny][nx] - 6][1].second;
@@ -80,7 +82,7 @@ void move(int y, int x, int d) {
 //                cout << "warmhole crash" << endl;
 //                cout << nx << "," << ny << "," << d << endl;
         }
-            //블랙홀일때
+        //블랙홀일때
         else {
             break;
         }
