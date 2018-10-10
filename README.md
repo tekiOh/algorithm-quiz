@@ -136,6 +136,7 @@
 - [s_1953]    : 탈주범 검거[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq) 
 - [s_5644]    : 무선 충전[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)
 - [s_5648]    : 원자 시뮬레이션[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)
+- [s_5650]    : 핀볼 게임[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo)
 
 
 [PROGRAMMERS]
@@ -264,6 +265,7 @@
 [s_1953]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/1953.cpp
 [s_5644]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/5644.cpp
 [s_5648]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/5648.cpp
+[s_5650]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/5650.cpp
 
 [PROGRAMMERS]: https://programmers.co.kr/learn/challenges
 [비밀지도]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/secretmap.cpp
