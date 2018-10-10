@@ -135,7 +135,7 @@
 - [s_2105]    : 디저트 카페[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu) 
 - [s_1953]    : 탈주범 검거[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq) 
 - [s_5644]    : 무선 충전[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)
-- [s_5648]    : 무선 충전[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)
+- [s_5648]    : 원자 시뮬레이션[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)
 
 
 [PROGRAMMERS]
