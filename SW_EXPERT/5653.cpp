@@ -12,24 +12,11 @@ struct cell {
     int x, y, t, bt;  //x,y좌표, 활성화시간, 생성시간
 };
 queue<cell> q;
-int map[1200][1200][2];
-int N, M, K;
-int sol;
-int time_cnt;
+int map[700][700][2];
+int T, N, M, K,sol,time_cnt;
 //방향 상하좌우 y++,y--,x--,x++
 int dx[4] = {0, 0, -1, 1};
 int dy[4] = {1, -1, 0, 0};
-
-void calcMsol(int ct){
-    int msol = 0;
-    for (int i = 0; i < 1200; i++) {
-        for (int j = 0; j < 1200; j++) {
-            if (map[i][j][0] != 0 && ct < 2*map[i][j][0] + map[i][j][1])
-                msol++;
-        }
-    }
-    cout << "msol : "<<msol<<endl;
-}
 void move() {
     int size = q.size();
     int nx, ny;
@@ -42,16 +29,18 @@ void move() {
             continue;
         }
         //활성화상태일때
-        if (time_cnt - tmp.bt >= tmp.t &&  time_cnt < tmp.bt + 2*tmp.t) {
-            //4방향으로 전파
-            for (int i = 0; i < 4; i++) {
-                nx = tmp.x + dx[i];
-                ny = tmp.y + dy[i];
-                //빈자리이면 전파
-                if (!map[ny][nx][0] || (map[ny][nx][0] < tmp.t && map[ny][nx][1] == time_cnt+1)) {
-                    map[ny][nx][0] = tmp.t;
-                    map[ny][nx][1] = time_cnt + 1;
-                    q.push({nx, ny, tmp.t, time_cnt + 1});
+        if (time_cnt - tmp.bt >= tmp.t){
+            if( time_cnt < tmp.bt + 2*tmp.t) {
+                //4방향으로 전파
+                for (int i = 0; i < 4; i++) {
+                    nx = tmp.x + dx[i];
+                    ny = tmp.y + dy[i];
+                    //빈자리이면 전파
+                    if (!map[ny][nx][0] || (map[ny][nx][0] < tmp.t && map[ny][nx][1] == time_cnt+1)) {
+                        map[ny][nx][0] = tmp.t;
+                        map[ny][nx][1] = time_cnt + 1;
+                        q.push({nx, ny, tmp.t, time_cnt + 1});
+                    }
                 }
             }
         }
@@ -74,22 +63,22 @@ void move() {
 }
 
 void calc() {
-    for (int i = 0; i < 1200; i++) {
-        for (int j = 0; j < 1200; j++) {
+    for (int i = 0; i < 700; i++) {
+        for (int j = 0; j < 700; j++) {
             if (map[i][j][0] != 0 && K < 2*map[i][j][0] + map[i][j][1])
                 sol++;
         }
     }
 }
 void init(){
-    while(!q.empty())
-        q.pop();
+    queue<cell> nq;
+    swap(q,nq);
     time_cnt = 0;
     sol = 0;
-    for(int i = 0 ;i < 1200 ; i++){
-        for(int j = 0 ; j < 1200 ; j++) {
+    for(int i = 0 ;i < 700 ; i++){
+        for(int j = 0 ; j < 700 ; j++) {
             map[i][j][0] = 0;
-            map[i][j][1] = 1;
+            map[i][j][1] = 0;
         }
     }
 }
@@ -102,13 +91,15 @@ void simulation() {
 }
 
 int main() {
-    int T;
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
     cin >> T;
     int a = 1;
     while (T--) {
         cin >> N >> M >> K;
-        for (int i = 400; i < 400 + N; i++) {
-            for (int j = 400; j < 400 + M; j++) {
+        for (int i = 350; i < 350 + N; i++) {
+            for (int j = 350; j < 350 + M; j++) {
                 cin >> map[i][j][0];
                 map[i][j][1] = 0;
                 //세포이면
@@ -118,7 +109,7 @@ int main() {
             }
         }
         simulation();
-        cout << "#" << a << " " << sol << endl;
+        cout << "#" << a << " " << sol << '\n';
         a++;
         init();
     }
