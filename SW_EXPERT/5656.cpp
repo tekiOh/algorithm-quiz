@@ -109,7 +109,6 @@ void simulation() {
 //        }
     }
 
-
     int msol = 0;
     for (int i = 0; i < H; i++) {
         for (int j = 0; j < W; j++) {
@@ -122,21 +121,6 @@ void simulation() {
         sol = msol;
 }
 
-void ncombination(){
-    for(int i = 0 ; i < W ; i++){
-        com[0] = i;
-        for(int j = 0 ; j < W ; j++){
-            com[1] = j;
-            for(int k = 0 ; k < W ; k++){
-                com[2] = k;
-                for(int l = 0 ; l < W ; l++){
-                    com[3] = l;
-                    simulation();
-                }
-            }
-        }
-    }
-}
 void combination(int cnt) {
     if (cnt == N) {
         simulation();
@@ -161,9 +145,7 @@ int main() {
             for (int j = 0; j < W; j++)
                 cin >> map[i][j];
         }
-//        com[0] = 2; com[1] = 2; com[2] = 6;
-//        simulation();
-        ncombination();
+        combination(0);
         cout <<"#"<<a++<<" "<< sol << endl;
         sol = 9999;
     }
