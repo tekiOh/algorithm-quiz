@@ -139,6 +139,7 @@
 - [s_5650]    : 핀볼 게임[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo)
 - [s_5653]    : 줄기세포배양[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo)
 - [s_5656]    : 벽돌 깨기[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)
+- [s_5658]    : 보물상자 비밀번호[(문제)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo)
 
 
 [PROGRAMMERS]
@@ -270,6 +271,7 @@
 [s_5650]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/5650.cpp
 [s_5653]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/5653.cpp
 [s_5656]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/5656.cpp
+[s_5658]: https://github.com/pouder-Man/algorithm-quiz/blob/master/SW_EXPERT/5658.cpp
 
 [PROGRAMMERS]: https://programmers.co.kr/learn/challenges
 [비밀지도]:https://github.com/pouder-Man/algorithm-quiz/blob/master/kakao/secretmap.cpp
