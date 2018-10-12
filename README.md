@@ -119,6 +119,9 @@
 - [1753]    : 최단 경로[(문제)](https://www.acmicpc.net/problem/1753)
 - [1504]    : 특정한 최단 경로[(문제)](https://www.acmicpc.net/problem/1504)
 
+12. 코딩테스트 대비
+- [1018]    : 체스판 다시 칠하기[(문제)](https://www.acmicpc.net/problem/1018)
+
 [SW EXPERT ACAMEDY]
 ----------------
 ## 분류
@@ -252,6 +255,7 @@
 [15684]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/15684.cpp
 [15685]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/15685.cpp
 [15686]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/15686.cpp
+[1018]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1018.cpp
 
 
 [SW EXPERT ACAMEDY]: https://swexpertacademy.com/main/main.do
