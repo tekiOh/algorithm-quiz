@@ -121,6 +121,7 @@
 
 12. 코딩테스트 대비
 - [1018]    : 체스판 다시 칠하기[(문제)](https://www.acmicpc.net/problem/1018)
+- [1026]    : 보물[(문제)](https://www.acmicpc.net/problem/1026)
 
 [SW EXPERT ACAMEDY]
 ----------------
@@ -256,6 +257,7 @@
 [15685]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/15685.cpp
 [15686]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/15686.cpp
 [1018]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1018.cpp
+[1026]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1026.cpp
 
 
 [SW EXPERT ACAMEDY]: https://swexpertacademy.com/main/main.do
