@@ -123,6 +123,7 @@
 - [1018]    : 체스판 다시 칠하기[(문제)](https://www.acmicpc.net/problem/1018)
 - [1026]    : 보물[(문제)](https://www.acmicpc.net/problem/1026)
 - [1062]    : 가르침[(문제)](https://www.acmicpc.net/problem/1062)
+- [1063]    : 킹[(문제)](https://www.acmicpc.net/problem/1063)
 
 [SW EXPERT ACAMEDY]
 ----------------
@@ -260,6 +261,7 @@
 [1018]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1018.cpp
 [1026]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1026.cpp
 [1062]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1062.cpp
+[1063]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1063.cpp
 
 
 [SW EXPERT ACAMEDY]: https://swexpertacademy.com/main/main.do
