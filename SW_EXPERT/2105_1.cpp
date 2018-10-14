@@ -29,6 +29,28 @@ bool chkVisit(int sy, int sx, int y, int x) {
     return false;
 }
 
+void clean(int a, int b){
+    int x = sx;
+    int y = sy;
+    int k,nx,ny;
+    //cout <<"clean start from" <<x<<","<<y<<endl;
+    for (int i = 0; i < 4; i++) {
+        if (i % 2 == 0) k = a;
+        else k = b;
+        for (int j = 1; j <= k; j++) {
+            nx = x + dx[i];
+            ny = y + dy[i];
+            if (chkPoint(ny, nx)) {
+                visitStore[ny][nx] = 0;
+                visitDesert[map[ny][nx]] = 0;
+                //cout << nx << "," << ny << " cleaned!!" << endl;
+                x = nx;
+                y = ny;
+            }
+        }
+    }
+}
+
 void travel(int y, int x, int a, int b) {
 //    cout << "start from " << x << "," << y << endl;
 //    cout << a << "," << b << endl;
@@ -54,24 +76,9 @@ void travel(int y, int x, int a, int b) {
             }
         }
     }
-    x = sx;
-    y = sy;
-    //cout <<"clean start from" <<x<<","<<y<<endl;
-    for (int i = 0; i < 4; i++) {
-        if (i % 2 == 0) k = a;
-        else k = b;
-        for (int j = 1; j <= k; j++) {
-            nx = x + dx[i];
-            ny = y + dy[i];
-            if (chkPoint(ny, nx)) {
-                visitStore[ny][nx] = 0;
-                visitDesert[map[ny][nx]] = 0;
-                //cout << nx << "," << ny << " cleaned!!" << endl;
-                x = nx;
-                y = ny;
-            }
-        }
-    }
+
+    clean(a,b);
+
     if (ch) {
         if (sol < 2 * (a + b))
             sol = 2 * (a + b);
@@ -107,6 +114,8 @@ void init() {
 }
 
 int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
     cin >> T;
     int a = 1;
     while (T--) {
