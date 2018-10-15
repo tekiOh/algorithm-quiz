@@ -180,6 +180,5 @@ int main(){
         cout <<"#"<<a++<<" "<<sol << endl;
         init();
     }
-
     return 0;
 }
