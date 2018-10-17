@@ -149,6 +149,8 @@ void init(){
     stair.clear();
 }
 int main(){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
     cin >> T;
     int a = 1;
     while(T--){
@@ -177,7 +179,7 @@ int main(){
 //        cout << endl;
         dfs(0,people.size());
 
-        cout <<"#"<<a++<<" "<<sol << endl;
+        cout <<"#"<<a++<<" "<<sol << '\n';
         init();
     }
     return 0;
