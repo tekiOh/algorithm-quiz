@@ -39,17 +39,17 @@ void simulation() {
         //최적의 경우를 구하자
         int msol = 0;
         //둘다 없어
-        if (aBC.size() == 0 && bBC.size() == 0) {
+        if (aBC.empty()&& bBC.empty()) {
         }
             //B만 충전가능!
-        else if (aBC.size() == 0 && bBC.size() != 0) {
+        else if (aBC.empty() && !bBC.empty()) {
             for (int j = 0; j < bBC.size(); j++) {
                 if (msol < BC[bBC[j]][3])
                     msol = BC[bBC[j]][3];
             }
         }
             //A만 충전가능!
-        else if (aBC.size() != 0 && bBC.size() == 0) {
+        else if (!aBC.empty() && bBC.empty()) {
             for (int j = 0; j < aBC.size(); j++) {
                 if (msol < BC[aBC[j]][3])
                     msol = BC[aBC[j]][3];
