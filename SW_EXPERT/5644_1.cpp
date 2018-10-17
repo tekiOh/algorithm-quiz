@@ -79,7 +79,7 @@ void init() {
     //map[11][11][8]
     for (int i = 1; i <= 10; i++)
         for (int j = 1; j <= 10; j++)
-            for (int k = 0; k < 8; k++)
+            for (int k = 0; k < A; k++)
                 map[i][j][k] = 0;
 
     sol = 0;
