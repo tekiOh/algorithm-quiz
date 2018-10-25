@@ -125,6 +125,9 @@
 - [1062]    : 가르침[(문제)](https://www.acmicpc.net/problem/1062)
 - [1063]    : 킹[(문제)](https://www.acmicpc.net/problem/1063)
 
+13. 표기법
+- [중위 표기법 to 후위 표기법](https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/prefix_infix_postfix.cpp)
+
 [SW EXPERT ACAMEDY]
 ----------------
 ## 분류
