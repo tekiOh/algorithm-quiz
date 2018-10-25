@@ -63,12 +63,7 @@ void makePostFix(string str) {
         st.pop();
     }
 }
-int main() {
-    string str;
-    getline(cin, str);
-    makePostFix(str);
-    cout << postFixStr << endl;
-
+void calcPostFix(){
     stringstream ss(postFixStr);
     string k;
     int solution = 0;
@@ -111,5 +106,13 @@ int main() {
         }
     }
     cout << sol_st.top() << endl;
-    //cout << sol << endl;
+}
+int main() {
+    string str;
+    getline(cin, str);
+    makePostFix(str);
+    cout << postFixStr << endl;
+    calcPostFix();
+
+    return 0;
 }
